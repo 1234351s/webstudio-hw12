@@ -13,9 +13,10 @@ body {
   line-height: calc(19 / 14);
 }
 .container {
-  width: 1170px;
-  margin: 30 auto;
-  padding: 0 15px;
+width: 1230px; 
+margin: 0 auto;
+padding: 0 15px;
+outline: 2px solid red;
 }
 .developments {
   margin-bottom: 100px;
