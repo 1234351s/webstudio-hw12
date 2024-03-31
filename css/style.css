@@ -13,33 +13,18 @@ body {
   line-height: calc(19 / 14);
 }
 .container {
-width: 1230px; 
-margin: 0 auto;
-padding: 0 15px;
-outline: 2px solid red;
+  width: 1230px;
+  margin: 0 auto;
+  padding: 0 15px;
+  outline: 2px solid red;
 }
 .developments {
-  margin-bottom: 100px;
-}
-.developments {
-  margin-bottom: 100px;
-}
-.team {
-  margin-bottom: 100px;
-}
-.team {
-  margin-bottom: 100px;
+  margin-bottom: 94px;
 }
 .hero {
-  margin-bottom: 100px;
-}
-.hero {
-  margin-bottom: 100px;
+  margin-bottom: 94px;
 }
 .advantages {
-  margin-bottom: 100px;
-}
-.advantages {
-  margin-bottom: 100px;
+  margin-bottom: 118px;
 }
 
