@@ -16,15 +16,23 @@ body {
   width: 1230px;
   margin: 0 auto;
   padding: 0 15px;
-  outline: 2px solid red;
+  outline: 2px solid rgb(0, 0, 0);
 }
 .developments {
   margin-bottom: 94px;
 }
 .hero {
   margin-bottom: 94px;
+  text-align: center;
+  background-color: var(--black-color);
+  left:auto;
+  right: auto;
 }
 .advantages {
   margin-bottom: 118px;
 }
-
+.hero-button {
+  background-color: var(--blue-color);
+  text-align: center;
+  margin: 0 auto;
+}
